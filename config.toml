@@ -2,10 +2,10 @@
 theme = "hugo-theme-codex" 
 
 # Override these settings with your own
-title = "codex"
+title = "oscaryinn"
 languageCode = "en-us"
 baseURL = "https://oseyosey.github.io/"
-copyright = "© {year}"
+copyright = "Junjie Oscar Yin © {year 2023}"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
@@ -56,10 +56,19 @@ copyright = "© {year}"
 
 # Controls the navigation
 [[menu.main]]
-  identifier = "about"
-  name = "about"
-  title = "About"
+  identifier = "hello"
+  name = "hello"
+  title = "hello"
   url = "/"
+  weight = 10
+
+
+[[menu.main]]
+identifier = "about"
+name = "about"
+title = "about"
+url = "/about"
+weight = 20
 
 #[[menu.main]]
 #  identifier = "blog"
