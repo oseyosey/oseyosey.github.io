@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oscar Yinn on oscaryinn</title>
+    <link>https://oseyosey.github.io/</link>
+    <description>Recent content in Oscar Yinn on oscaryinn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Junjie Oscar Yin © {year 2023}</copyright>
+    <atom:link href="https://oseyosey.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://oseyosey.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://oseyosey.github.io/about/</guid>
+      <description>Hi, I&amp;rsquo;m Junjie Oscar Yin I am excessively interested in building efficient and trustworthy systems that possess a deeper understanding of language and vision. More broadly, I am drawn by research that makes progress toward the intersection of language and vision through deep learning.&#xA;In my undergraduate years at Johns Hopkins and Oxford, I am forunate to be advised by Alan Yuille and Volodymy Kuleshov.&#xA;Recent Updates Below you will find the most recent updates since my PhD application:</description>
+    </item>
+  </channel>
+</rss>
