@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oscar Yinn on codex</title>
+    <title>Oscar Yinn on oscaryinn</title>
     <link>https://oseyosey.github.io/</link>
-    <description>Recent content in Oscar Yinn on codex</description>
+    <description>Recent content in Oscar Yinn on oscaryinn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© {year}</copyright>
+    <copyright>Junjie Oscar Yin © {year 2023}</copyright>
     <atom:link href="https://oseyosey.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
