@@ -24,6 +24,8 @@ practices. -->
 
 Below you will find the most recent updates since my PhD application:
 
+- Selected for ***Honorable Mention*** of the 2024 Computing Research Association's (<a href="https://cra.org/">CRA</a>) Outstanding Undergraduate Researcher Award (<a href="https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/">URA</a>). *Dec 2023.*
+
 
 <!-- ### Code
 
@@ -46,6 +48,27 @@ Unable to load of software.
 ### Publications
 
 My selected list of publications is available here:
+
+- ModuLoRA: Finetuning 2-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers.\
+***Junjie Oscar Yin**, Jiahao Dong, Yingheng Wang, Christopher De Sa, Volodymyr Kuleshov.* \
+*TMLR 2023.* \
+<sup>[<a href="https://openreview.net/forum?id=r9p9CV52MV">Paper</a>]</sup> <sup>[<a href="https://github.com/kuleshov-group/llmtools">Public Codebase</a>]</sup> 
+
+
+
+- Easy3DTrack-MV: Uncalibrated Multi-view Multi-Human 3D Tracking and Reconstruction.\
+***Junjie Oscar Yin**, Yi Zhang, Ting Li, Alan Yuille.*\
+*In Submission to CVPR 2024.* \
+<sup>[<a href="https://www.overleaf.com/read/zgkjsrdzpmsg#984be7">Manuscript</a>]</sup>
+
+
+- How LLM-powered Conversational Agents Influence Decision Making in Domestic Medical Triage Contexts.\
+*\***Junjie Oscar Yin**, \*Catalina Gomez, Chien-Ming Huang, Mathias Unberath.* \
+*In Submission to JAMIA 2024.* \
+<sup>[<a href="https://www.overleaf.com/read/xnrmtztjqztw#a4a699">Manuscript</a>]</sup>
+
+
+
 <!-- [on ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Foreman-Mackey&db_key=PRE)
 but here are a few highlights: -->
 
