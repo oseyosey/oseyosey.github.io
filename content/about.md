@@ -51,7 +51,7 @@ My selected list of publications is available here:
 
 - ModuLoRA: Finetuning 2-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers.\
 ***Junjie Oscar Yin**, Jiahao Dong, Yingheng Wang, Christopher De Sa, Volodymyr Kuleshov.* \
-*TMLR 2023.* \
+*TMLR 2023. **(Featured Certification, Oral at ICLR 2024)*** \
 <sup>[<a href="https://openreview.net/forum?id=r9p9CV52MV">Paper</a>]</sup> <sup>[<a href="https://github.com/kuleshov-group/llmtools">Public Codebase</a>]</sup> 
 
 
