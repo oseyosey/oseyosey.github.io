@@ -2,6 +2,25 @@
 title: "About"
 ---
 
+
+<head>
+    <style>
+        .container {
+            align: left; /* Aligns content of the container to the left */
+        }
+        .container img {
+            width: 35%; /* Adjust this value to scale the image */
+            margin-left: -5.5%; 
+        }
+    </style>
+</head>
+
+<!-- <img src="assets/photo_id_website.png" alt="" /> -->
+
+<div class="container">
+    <img src="/photo_id_website.png" align="left">
+</div>
+
 ## Hi, I'm Junjie Oscar Yin
 
 I am excessively interested in building efficient and trustworthy systems that possess a deeper understanding of language and vision. More broadly, I am drawn by  research that makes progress toward the intersection of language and vision through deep learning.
