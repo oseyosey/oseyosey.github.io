@@ -9,7 +9,7 @@ title: "About"
             align: left; /* Aligns content of the container to the left */
         }
         .container img {
-            width: 35%; /* Adjust this value to scale the image */
+            width: 330px; /* Adjust this value to scale the image */
             margin-left: -5.5%; 
         }
     </style>
