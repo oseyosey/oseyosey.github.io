@@ -70,15 +70,15 @@ My selected list of publications is available here:
 
 - ModuLoRA: Finetuning 2-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers.\
 ***Junjie Oscar Yin**, Jiahao Dong, Yingheng Wang, Christopher De Sa, Volodymyr Kuleshov.* \
-*TMLR 2023. **(Featured Certification, Oral at ICLR 2024)*** \
+*TMLR 2024. **(Featured Certification. Presentation at ICLR 2024)*** \
 <sup>[<a href="https://openreview.net/forum?id=r9p9CV52MV">Paper</a>]</sup> <sup>[<a href="https://github.com/kuleshov-group/llmtools">Public Codebase</a>]</sup> 
 
 
 
-- Easy3DTrack-MV: Uncalibrated Multi-view Multi-Human 3D Tracking and Reconstruction.\
-***Junjie Oscar Yin**, Yi Zhang, Ting Li, Alan Yuille.*\
-*In Submission to CVPR 2024.* \
-<sup>[<a href="https://www.overleaf.com/read/zgkjsrdzpmsg#984be7">Manuscript</a>]</sup>
+- EasyRet3D: Uncalibrated Multi-view Multi-Human 3D Tracking and Reconstruction.\
+***Junjie Oscar Yin**, Yi Zhang, Ting Li, Jiahao Wang, Alan Yuille.*\
+*In Submission to ECCV 2024.* \
+<sup>[<a href="https://www.overleaf.com/read/zhznzbbpgbgm#923e12">Manuscript</a>]</sup>
 
 
 - How LLM-powered Conversational Agents Influence Decision Making in Domestic Medical Triage Contexts.\
