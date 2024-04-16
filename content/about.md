@@ -23,7 +23,10 @@ title: "About"
 
 ## Hi, I'm Junjie Oscar Yin
 
-I am excessively interested in building efficient and trustworthy systems that possess a deeper understanding of language and vision. More broadly, I am drawn by  research that makes progress toward the intersection of language and vision through deep learning.
+
+I am excessively interested in building efficient, trustworthy, and expressive AI systems(LLMs) that possess a deeper understanding of language and vision. Below is a list of things that I am constantly thinking about/workding toward:
+- *Making Training & Deployment of LLMs More Accessible.* I am excited by novel methods to efficiently pre-train, fine-tune/instruction-tune, and evaluate LLMs.
+- *Toward Multi-Modality.* I am drawn by works that push LLMs to reason about, generate, and make inference on 2.5D/3D visual world. 
 
 In my undergraduate years at Johns Hopkins and Oxford, I am forunate to be advised by [Alan Yuille](https://www.cs.jhu.edu/~ayuille/) and [Volodymy Kuleshov](https://www.cs.cornell.edu/~kuleshov/). 
 
@@ -41,7 +44,7 @@ practices. -->
 
 ### Recent Updates
 
-Below you will find the most recent updates since my PhD application:
+Below you will find the most recent updates:
 
 - Selected for ***Honorable Mention*** of the 2024 Computing Research Association's (<a href="https://cra.org/">CRA</a>) Outstanding Undergraduate Researcher Award (<a href="https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/">URA</a>). *Dec 2023.*
 
@@ -71,20 +74,20 @@ My selected list of publications is available here:
 - ModuLoRA: Finetuning 2-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers.\
 ***Junjie Oscar Yin**, Jiahao Dong, Yingheng Wang, Christopher De Sa, Volodymyr Kuleshov.* \
 *TMLR 2024. **(Featured Certification. Presentation at ICLR 2024)*** \
-<sup>[<a href="https://openreview.net/forum?id=r9p9CV52MV">Paper</a>]</sup> <sup>[<a href="https://github.com/kuleshov-group/llmtools">Public Codebase</a>]</sup> 
+<sup>[<a href="https://oseyincs.io/llmtools/">Blog Post</a>]</sup> <sup>[<a href="https://github.com/kuleshov-group/llmtools">Public Codebase</a>]</sup> <sup>[<a href="https://openreview.net/forum?id=r9p9CV52MV">Paper</a>]</sup>  
 
 
 
 - EasyRet3D: Uncalibrated Multi-view Multi-Human 3D Tracking and Reconstruction.\
 ***Junjie Oscar Yin**, Yi Zhang, Ting Li, Jiahao Wang, Alan Yuille.*\
 *In Submission to ECCV 2024.* \
-<sup>[<a href="https://www.overleaf.com/read/zhznzbbpgbgm#923e12">Manuscript</a>]</sup>
+<sup>[<a href="https://ez3dtrackmv.org/">Project Site</a>]</sup> <sup>[<a href="https://drive.google.com/file/d/19y6Q2i1rigwwk-65e3-yshEeKwBkGxpi/view?usp=sharing">Manuscript</a>]</sup>
 
 
 - How LLM-powered Conversational Agents Influence Decision Making in Domestic Medical Triage Contexts.\
 *\***Junjie Oscar Yin**, \*Catalina Gomez, Chien-Ming Huang, Mathias Unberath.* \
 *In Submission to JAMIA 2024.* \
-<sup>[<a href="https://www.overleaf.com/read/xnrmtztjqztw#a4a699">Manuscript</a>]</sup>
+<sup>[<a href="https://drive.google.com/file/d/10B9K-dFeniegXw8SAYkjpvJ8_pGr2sqT/view?usp=sharing">Manuscript</a>]</sup>
 
 
 

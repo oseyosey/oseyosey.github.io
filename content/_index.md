@@ -1,5 +1,5 @@
 ---
 title: "Oscar Yinn"
-fullname: "Oscar"
-subheading: "Mostly intersted in Language and Vision."
+fullname: "Oscar Yin"
+# subheading: "Mostly intersted in Language and Vision."
 ---
