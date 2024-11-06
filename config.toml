@@ -5,7 +5,7 @@ theme = "hugo-theme-codex"
 title = "oscaryinn"
 languageCode = "en-us"
 baseURL = "https://oseyosey.github.io/"
-copyright = "Junjie Oscar Yin © {year 2023}"
+copyright = "Junjie Oscar Yin © {year 2024}"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
@@ -55,12 +55,12 @@ copyright = "Junjie Oscar Yin © {year 2023}"
       unsafe = true
 
 # Controls the navigation
-[[menu.main]]
-  identifier = "hello"
-  name = "hello"
-  title = "hello"
-  url = "/"
-  weight = 10
+# [[menu.main]]
+#  identifier = "hello"
+#  name = "hello"
+#  title = "hello"
+#  url = "/"
+#  weight = 10
 
 
 [[menu.main]]

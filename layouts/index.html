@@ -3,15 +3,6 @@
 {{ end }}
 
 {{ define "main" }}
-
-<div class="splash-container">
-  <div class="splash">
-    <h1>Hi, I'm <a href="/about">{{ .Params.fullname }}</a><span class="fancy">.</span></h1>
-    <h2>{{ .Params.subheading }}</h2>
-    <!-- Replace MEEEEE -->
-
-    {{ partial "social-icons.html" .}}
-  </div>
-</div>
-
+    <meta http-equiv="refresh" content="0; url=/about" />
+    <p>If you are not redirected automatically, follow this <a href="/about">link to /about</a>.</p>
 {{ end }}

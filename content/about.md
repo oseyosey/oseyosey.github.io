@@ -23,12 +23,12 @@ title: "About"
 
 ## Hi, I'm Junjie Oscar Yin
 
+I conduct research in natural language processing and machine learning. 
 
-I am excessively interested in building efficient, trustworthy, and expressive AI systems(LLMs) that possess a deeper understanding of language and vision. Below is a list of things that I am constantly thinking about/workding toward:
-- *Making Training & Deployment of LLMs More Accessible.* I am excited by novel methods to efficiently pre-train, fine-tune/instruction-tune, and evaluate LLMs.
-- *Toward Multi-Modality.* I am drawn by works that push LLMs to reason about, generate, and make inference on 2.5D/3D visual world. 
+Currently, I am fortunate to be collaborating with [Sasha Rush](https://rush-nlp.com/). 
 
-In my undergraduate years at Johns Hopkins and Oxford, I am forunate to be advised by [Alan Yuille](https://www.cs.jhu.edu/~ayuille/) and [Volodymy Kuleshov](https://www.cs.cornell.edu/~kuleshov/). 
+In my undergraduate years at Johns Hopkins, I am grateful to be advised by [Alan Yuille](https://www.cs.jhu.edu/~ayuille/) and supported by the [Westgate Scholarship](https://apply.jhu.edu/tuition-aid/types-of-financial-aid/need-based-scholarships/westgate-scholarship/). During my studies, I spent a year at University of Oxford, where I had the privilege of being mentored by [Michael Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/). 
+
 
 <!-- 
 I'm a Research Scientist at the [Flatiron
@@ -42,11 +42,42 @@ population of these planets, and learn more about the variability of stars. I am
 also interested in the development of scientific software and open-source
 practices. -->
 
+
+### Publications
+
+My list of publications is available here:
+
+
+- Compute-Constrained Data Selection.\
+***Junjie Oscar Yin**, Alexander M. Rush.* \
+*In Submission to ICLR, 2025.* \
+<sup>[<a href="https://arxiv.org/abs/2410.16208">Paper</a>]</sup> <sup>[<a href="https://github.com/oseyosey/CCDS">Codebase</a>]</sup> <sup>[<a href="">Talk</a>]</sup> 
+
+
+- ModuLoRA: Finetuning 2-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers.\
+***Junjie Oscar Yin**, Jiahao Dong, Yingheng Wang, Christopher De Sa, Volodymyr Kuleshov.* \
+*Transactions on Machine Learning Research (TMLR), 2024. (**Featured Paper** ; Presented at ICLR 2024)* \
+ <sup>[<a href="https://openreview.net/forum?id=r9p9CV52MV">Paper</a>]</sup> <sup>[<a href="https://github.com/kuleshov-group/llmtools">Codebase</a>]</sup> <sup>[<a href="https://oseyincs.io/llmtools/">Blog Post</a>]</sup> 
+
+
+- EasyRet3D: Uncalibrated Multi-view Multi-Human 3D Tracking and Reconstruction.\
+***Junjie Oscar Yin**, Ting Li, Jiahao Wang, Yi Zhang, Alan Yuille.*\
+*Accepted to Winter Conference on Applications of Computer Vision (WACV), 2025.* \
+ <sup>[<a href="https://drive.google.com/file/d/19y6Q2i1rigwwk-65e3-yshEeKwBkGxpi/view?usp=sharing">Paper</a>]</sup> <sup>[<a href="https://ez3dtrackmv.org/">Project Site</a>]</sup>
+
+
+- How LLM-powered Conversational Agents Influence Decision Making in Domestic Medical Triage Contexts.\
+\*Catalina Gomez, *\***Junjie Oscar Yin**, Chien-Ming Huang, Mathias Unberath.* \
+*Frontiers in Computer Science, 2024.* \
+<sup>[<a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1427463/full">Paper</a>]</sup>
+
+
+
 ### Recent Updates
 
 Below you will find the most recent updates:
 
-- Selected for ***Honorable Mention*** of the 2024 Computing Research Association's (<a href="https://cra.org/">CRA</a>) Outstanding Undergraduate Researcher Award (<a href="https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/">URA</a>). *Dec 2023.*
+- 2024 Computing Research Association's (<a href="https://cra.org/">CRA</a>) Outstanding Undergraduate Researcher Award (<a href="https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/">URA</a>). *Dec 2023.*
 
 
 <!-- ### Code
@@ -66,30 +97,6 @@ Unable to load of software.
 </script>
 
 <ul id="codelist"></ul> -->
-
-### Publications
-
-My selected list of publications is available here:
-
-- ModuLoRA: Finetuning 2-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers.\
-***Junjie Oscar Yin**, Jiahao Dong, Yingheng Wang, Christopher De Sa, Volodymyr Kuleshov.* \
-*TMLR 2024. **(Featured Certification. Presentation at ICLR 2024)*** \
-<sup>[<a href="https://oseyincs.io/llmtools/">Blog Post</a>]</sup> <sup>[<a href="https://github.com/kuleshov-group/llmtools">Public Codebase</a>]</sup> <sup>[<a href="https://openreview.net/forum?id=r9p9CV52MV">Paper</a>]</sup>  
-
-
-
-- EasyRet3D: Uncalibrated Multi-view Multi-Human 3D Tracking and Reconstruction.\
-***Junjie Oscar Yin**, Yi Zhang, Ting Li, Jiahao Wang, Alan Yuille.*\
-*In Submission to ECCV 2024.* \
-<sup>[<a href="https://ez3dtrackmv.org/">Project Site</a>]</sup> <sup>[<a href="https://drive.google.com/file/d/19y6Q2i1rigwwk-65e3-yshEeKwBkGxpi/view?usp=sharing">Manuscript</a>]</sup>
-
-
-- How LLM-powered Conversational Agents Influence Decision Making in Domestic Medical Triage Contexts.\
-*\***Junjie Oscar Yin**, \*Catalina Gomez, Chien-Ming Huang, Mathias Unberath.* \
-*In Submission to JAMIA 2024.* \
-<sup>[<a href="https://drive.google.com/file/d/10B9K-dFeniegXw8SAYkjpvJ8_pGr2sqT/view?usp=sharing">Manuscript</a>]</sup>
-
-
 
 <!-- [on ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Foreman-Mackey&db_key=PRE)
 but here are a few highlights: -->
