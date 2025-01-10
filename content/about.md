@@ -29,7 +29,6 @@ Currently, I am fortunate to be collaborating with [Sasha Rush](https://rush-nlp
 
 In my undergraduate years at Johns Hopkins, I am grateful to be advised by [Alan Yuille](https://www.cs.jhu.edu/~ayuille/) and supported by the [Westgate Scholarship](https://apply.jhu.edu/tuition-aid/types-of-financial-aid/need-based-scholarships/westgate-scholarship/). During my studies, I spent a year at University of Oxford, where I had the privilege of being mentored by [Michael Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/). 
 
-
 <!-- 
 I'm a Research Scientist at the [Flatiron
 Institute](https://www.simonsfoundation.org/flatiron/)'s [Center for
@@ -63,7 +62,7 @@ My list of publications is available here:
 - EasyRet3D: Uncalibrated Multi-view Multi-Human 3D Tracking and Reconstruction.\
 ***Junjie Oscar Yin**, Ting Li, Jiahao Wang, Yi Zhang, Alan Yuille.*\
 *Accepted to Winter Conference on Applications of Computer Vision (WACV), 2025.* \
- <sup>[<a href="https://drive.google.com/file/d/19y6Q2i1rigwwk-65e3-yshEeKwBkGxpi/view?usp=sharing">Paper</a>]</sup> <sup>[<a href="https://ez3dtrackmv.org/">Project Site</a>]</sup>
+ <sup>[<a href="https://drive.google.com/file/d/1sD4FnnmsWsr38G5RkX6-rKMJT5Qn0Thn/view?usp=sharing">Paper</a>]</sup> <sup>[<a href="https://ez3dtrackmv.org/">Project Site</a>]</sup>
 
 
 - How LLM-powered Conversational Agents Influence Decision Making in Domestic Medical Triage Contexts.\
