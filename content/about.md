@@ -49,7 +49,7 @@ My list of publications is available here:
 
 - Compute-Constrained Data Selection.\
 ***Junjie Oscar Yin**, Alexander M. Rush.* \
-*In Submission to ICLR, 2025.* \
+*Accepted to ICLR, 2025.* \
 <sup>[<a href="https://arxiv.org/abs/2410.16208">Paper</a>]</sup> <sup>[<a href="https://github.com/oseyosey/CCDS">Codebase</a>]</sup> <sup>[<a href="">Talk</a>]</sup> 
 
 
@@ -61,7 +61,7 @@ My list of publications is available here:
 
 - EasyRet3D: Uncalibrated Multi-view Multi-Human 3D Tracking and Reconstruction.\
 ***Junjie Oscar Yin**, Ting Li, Jiahao Wang, Yi Zhang, Alan Yuille.*\
-*Accepted to Winter Conference on Applications of Computer Vision (WACV), 2025.* \
+*Winter Conference on Applications of Computer Vision (WACV), 2025.* \
  <sup>[<a href="https://drive.google.com/file/d/1sD4FnnmsWsr38G5RkX6-rKMJT5Qn0Thn/view?usp=sharing">Paper</a>]</sup> <sup>[<a href="https://ez3dtrackmv.org/">Project Site</a>]</sup>
 
 
