@@ -50,7 +50,7 @@ My list of publications is available here:
 - Compute-Constrained Data Selection.\
 ***Junjie Oscar Yin**, Alexander M. Rush.* \
 *Accepted to ICLR, 2025.* \
-<sup>[<a href="https://arxiv.org/abs/2410.16208">Paper</a>]</sup> <sup>[<a href="https://github.com/oseyosey/CCDS">Codebase</a>]</sup> <sup>[<a href="">Talk</a>]</sup> 
+<sup>[<a href="https://arxiv.org/abs/2410.16208">Paper</a>]</sup> <sup>[<a href="https://github.com/oseyosey/CCDS">Codebase</a>]</sup> <sup>[<a href="https://www.youtube.com/watch?v=D5bHngvcQU4&t=787s">Talk</a>]</sup> 
 
 
 - ModuLoRA: Finetuning 2-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers.\
