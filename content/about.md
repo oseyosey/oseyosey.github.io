@@ -49,13 +49,13 @@ My list of publications is available here:
 
 - Compute-Constrained Data Selection.\
 ***Junjie Oscar Yin**, Alexander M. Rush.* \
-*Accepted to ICLR, 2025.* \
+*International Conference on Learning Representations (ICLR), 2025.* \
 <sup>[<a href="https://arxiv.org/abs/2410.16208">Paper</a>]</sup> <sup>[<a href="https://github.com/oseyosey/CCDS">Codebase</a>]</sup> <sup>[<a href="https://www.youtube.com/watch?v=D5bHngvcQU4&t=787s">Talk</a>]</sup> 
 
 
 - ModuLoRA: Finetuning 2-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers.\
 ***Junjie Oscar Yin**, Jiahao Dong, Yingheng Wang, Christopher De Sa, Volodymyr Kuleshov.* \
-*Transactions on Machine Learning Research (TMLR), 2024. (**Featured Paper** ; Presented at ICLR 2024)* \
+*Transactions on Machine Learning Research (TMLR), 2024. (**Featured Paper** ; Invited to ICLR 2024)* \
  <sup>[<a href="https://openreview.net/forum?id=r9p9CV52MV">Paper</a>]</sup> <sup>[<a href="https://github.com/kuleshov-group/llmtools">Codebase</a>]</sup> <sup>[<a href="https://oseyincs.io/llmtools/">Blog Post</a>]</sup> 
 
 
