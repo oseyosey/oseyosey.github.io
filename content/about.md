@@ -25,6 +25,8 @@ title: "About"
 
 I conduct research in natural language processing and machine learning. 
 
+I am an incoming PhD student at UW, advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/).
+
 Currently, I am fortunate to be collaborating with [Sasha Rush](https://rush-nlp.com/). 
 
 In my undergraduate years at Johns Hopkins, I am grateful to be advised by [Alan Yuille](https://www.cs.jhu.edu/~ayuille/) and supported by the [Westgate Scholarship](https://apply.jhu.edu/tuition-aid/types-of-financial-aid/need-based-scholarships/westgate-scholarship/). During my studies, I spent a year at University of Oxford, where I had the privilege of being mentored by [Michael Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/). 
