@@ -25,7 +25,7 @@ title: "About"
 
 I conduct research in natural language processing and machine learning. 
 
-I am an incoming PhD student at UW, advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/).
+I am an incoming PhD student at UW NLP, advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/).
 
 Currently, I am fortunate to be collaborating with [Sasha Rush](https://rush-nlp.com/). 
 
