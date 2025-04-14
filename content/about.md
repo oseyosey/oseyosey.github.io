@@ -18,7 +18,7 @@ title: "About"
 <!-- <img src="assets/photo_id_website.png" alt="" /> -->
 
 <div class="container">
-    <img src="/photo_id_website.png" align="left">
+    <img src="/photo_id_website_transparent.png" align="left">
 </div>
 
 ## Hi, I'm Junjie Oscar Yin
