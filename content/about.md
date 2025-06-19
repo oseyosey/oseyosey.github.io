@@ -48,29 +48,20 @@ practices. -->
 
 My list of publications is available here:
 
+- Approximating Language Model Training Data from Weights.\
+*John X. Morris, Junjie Oscar Yin, Woojeong Kim, Vitaly Shmatikov, Alexander M. Rush.* \
+<sup>[<a href="https://arxiv.org/abs/2506.15553">Paper</a>]</sup> <sup>[<a href="https://github.com/jxmorris12/reverse-training">Codebase</a>]</sup>
 
 - Compute-Constrained Data Selection.\
-***Junjie Oscar Yin**, Alexander M. Rush.* \
+*Junjie Oscar Yin, Alexander M. Rush.* \
 *International Conference on Learning Representations (ICLR), 2025.* \
 <sup>[<a href="https://arxiv.org/abs/2410.16208">Paper</a>]</sup> <sup>[<a href="https://github.com/oseyosey/CCDS">Codebase</a>]</sup> <sup>[<a href="https://www.youtube.com/watch?v=D5bHngvcQU4&t=787s">Talk</a>]</sup> 
 
 
 - ModuLoRA: Finetuning 2-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers.\
-***Junjie Oscar Yin**, Jiahao Dong, Yingheng Wang, Christopher De Sa, Volodymyr Kuleshov.* \
-*Transactions on Machine Learning Research (TMLR), 2024. (**Featured Paper** ; Invited to ICLR 2024)* \
+*Junjie Oscar Yin, Jiahao Dong, Yingheng Wang, Christopher De Sa, Volodymyr Kuleshov.* \
+*Transactions on Machine Learning Research (TMLR), 2024. (Featured Paper ; Presented at ICLR 2024)* \
  <sup>[<a href="https://openreview.net/forum?id=r9p9CV52MV">Paper</a>]</sup> <sup>[<a href="https://github.com/kuleshov-group/llmtools">Codebase</a>]</sup> <sup>[<a href="https://oseyincs.io/llmtools/">Blog Post</a>]</sup> 
-
-
-- EasyRet3D: Uncalibrated Multi-view Multi-Human 3D Tracking and Reconstruction.\
-***Junjie Oscar Yin**, Ting Li, Jiahao Wang, Yi Zhang, Alan Yuille.*\
-*Winter Conference on Applications of Computer Vision (WACV), 2025.* \
- <sup>[<a href="https://drive.google.com/file/d/1sD4FnnmsWsr38G5RkX6-rKMJT5Qn0Thn/view?usp=sharing">Paper</a>]</sup> <sup>[<a href="https://ez3dtrackmv.org/">Project Site</a>]</sup>
-
-
-- How LLM-powered Conversational Agents Influence Decision Making in Domestic Medical Triage Contexts.\
-\*Catalina Gomez, *\***Junjie Oscar Yin**, Chien-Ming Huang, Mathias Unberath.* \
-*Frontiers in Computer Science, 2024.* \
-<sup>[<a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1427463/full">Paper</a>]</sup>
 
 
 
