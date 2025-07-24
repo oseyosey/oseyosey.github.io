@@ -50,6 +50,7 @@ My list of publications is available here:
 
 - Approximating Language Model Training Data from Weights.\
 *John X. Morris, Junjie Oscar Yin, Woojeong Kim, Vitaly Shmatikov, Alexander M. Rush.* \
+*Conference on Language Modeling (COLM), 2025.* \
 <sup>[<a href="https://arxiv.org/abs/2506.15553">Paper</a>]</sup> <sup>[<a href="https://github.com/jxmorris12/reverse-training">Codebase</a>]</sup>
 
 - Compute-Constrained Data Selection.\
