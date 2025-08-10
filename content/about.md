@@ -10,6 +10,8 @@ title: "About"
         }
         .container img {
             width: 30%; /* Adjust this percentage to control image size */
+            min-width: 250px; /* Prevents image from becoming too small on mobile */
+            max-width: 400px; /* Prevents image from becoming too large on wide screens */
             margin-left: 0.1%; /* Adjust this percentage to move the image right */
         }
     </style>
