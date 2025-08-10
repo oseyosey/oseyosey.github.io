@@ -9,8 +9,8 @@ title: "About"
             align: left; /* Aligns content of the container to the left */
         }
         .container img {
-            width: 330px; /* Adjust this value to scale the image */
-            margin-left: -5.5%; 
+            width: 30%; /* Adjust this percentage to control image size */
+            margin-left: 0.1%; /* Adjust this percentage to move the image right */
         }
     </style>
 </head>
@@ -18,7 +18,7 @@ title: "About"
 <!-- <img src="assets/photo_id_website.png" alt="" /> -->
 
 <div class="container">
-    <img src="/photo_id_website_transparent.png" align="left">
+    <img src="/photo_mugshot_2025.png" align="left">
 </div>
 
 ## Hi, I'm Junjie Oscar Yin
