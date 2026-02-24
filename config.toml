@@ -20,9 +20,9 @@ copyright = "Junjie Oscar Yin © {year 2024}"
   dateFormat = "Jan 2 2006"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
-  #twitter = "https://twitter.com/<your handle>"
+  twitter = "https://x.com/yinn_oscar"
   github = "https://github.com/oseyosey"
-  email = "mailto:<jyin27@jh.edu>"
+  email = "mailto:<osey@cs.washington.edu>"
   # mastodon = "https://mastodon.social/@nickname"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
