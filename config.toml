@@ -22,7 +22,7 @@ copyright = "Junjie Oscar Yin © {year 2024}"
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   twitter = "https://x.com/yinn_oscar"
   github = "https://github.com/oseyosey"
-  email = "mailto:<osey@cs.washington.edu>"
+  email = "mailto:osey@cs.washington.edu"
   # mastodon = "https://mastodon.social/@nickname"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
@@ -33,7 +33,7 @@ copyright = "Junjie Oscar Yin © {year 2024}"
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported: 
   #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["Email", "GitHub"]
+  iconOrder = ["Email", "Twitter", "GitHub"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
