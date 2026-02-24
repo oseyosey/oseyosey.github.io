@@ -50,7 +50,7 @@ practices. -->
 
 My list of publications is available here:
 
-- Approximating Language Model Training Data from Weights.\
+- Learning to Detect Language Model Training Data via Active Reconstruction.\
 *Junjie Oscar Yin, John X. Morris, Vitaly Shmatikov, Sewon Min, Hannaneh Hajishirzi.* \
 *Preprint* \
 <sup>[<a href="https://arxiv.org/pdf/2602.19020">Paper</a>]</sup> <sup>[<a href="https://github.com/oseyosey/MIA-RL">Codebase</a>]</sup> 
