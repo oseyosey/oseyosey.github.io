@@ -27,7 +27,7 @@ title: "About"
 
 My research is in natural language processing and machine learning. 
 
-I am a first-year PhD student at UW NLP, advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/).
+I am a first-year PhD student at UW NLP, advised by [Hannaneh Hajishirzi](https://hannaneh.ai/).
 
 Previously, I was fortunate to collaborate with [Sasha Rush](https://rush-nlp.com/). 
 
