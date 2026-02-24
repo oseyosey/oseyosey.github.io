@@ -23,7 +23,7 @@ title: "About"
     <img src="/photo_mugshot_2025.png" align="left">
 </div>
 
-## Hi, I'm Junjie Oscar Yin
+## Hello, I'm Junjie Oscar Yin
 
 My research is in natural language processing and machine learning. 
 
