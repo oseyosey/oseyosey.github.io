@@ -25,13 +25,13 @@ title: "About"
 
 ## Hi, I'm Junjie Oscar Yin
 
-I conduct research in natural language processing and machine learning. 
+My research is in natural language processing and machine learning. 
 
-I am an incoming PhD student at UW NLP, advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/).
+I am a first-year PhD student at UW NLP, advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/).
 
-Currently, I am fortunate to be collaborating with [Sasha Rush](https://rush-nlp.com/). 
+Previously, I was fortunate to collaborate with [Sasha Rush](https://rush-nlp.com/). 
 
-In my undergraduate years at Johns Hopkins, I am grateful to be advised by [Alan Yuille](https://www.cs.jhu.edu/~ayuille/) and supported by the [Westgate Scholarship](https://apply.jhu.edu/tuition-aid/types-of-financial-aid/need-based-scholarships/westgate-scholarship/). During my studies, I spent a year at University of Oxford, where I had the privilege of being mentored by [Michael Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/). 
+In my undergraduate years at Johns Hopkins, I was grateful to be advised by [Alan Yuille](https://www.cs.jhu.edu/~ayuille/) and supported by the [Westgate Scholarship](https://apply.jhu.edu/tuition-aid/types-of-financial-aid/need-based-scholarships/westgate-scholarship/). During my studies, I spent a year at the University of Oxford, where I had the privilege of being mentored by [Michael Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/). 
 
 <!-- 
 I'm a Research Scientist at the [Flatiron
@@ -49,6 +49,11 @@ practices. -->
 ### Publications
 
 My list of publications is available here:
+
+- Approximating Language Model Training Data from Weights.\
+*Junjie Oscar Yin, John X. Morris, Vitaly Shmatikov, Sewon Min, Hannaneh Hajishirzi.* \
+*Preprint* \
+<sup>[<a href="https://arxiv.org/pdf/2602.19020">Paper</a>]</sup> <sup>[<a href="https://github.com/oseyosey/MIA-RL">Codebase</a>]</sup> 
 
 - Approximating Language Model Training Data from Weights.\
 *John X. Morris, Junjie Oscar Yin, Woojeong Kim, Vitaly Shmatikov, Alexander M. Rush.* \
