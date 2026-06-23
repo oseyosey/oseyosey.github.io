@@ -50,6 +50,13 @@ practices. -->
 
 My list of publications is available here:
 
+- TMax: A Simple Receipe for Terminal Agents\
+*Hamish Ivison\*, Junjie Oscar Yin\*, Rulin Shao, Teng Xiao, Nathan Lambert, Hannaneh Hajishirzi.[^cofirst]* \
+*Preprint* \
+<sup>[<a href="https://arxiv.org/abs/2606.23321">Paper</a>]</sup> <sup>[<a href="https://github.com/hamishivi/tmax">Codebase</a>]</sup>  <sup>[<a href="https://wai-org.com/blog/tmax/">Blog Post</a>]</sup> 
+
+[^cofirst]: \*Co-first authors.
+
 - Learning to Detect Language Model Training Data via Active Reconstruction.\
 *Junjie Oscar Yin, John X. Morris, Vitaly Shmatikov, Sewon Min, Hannaneh Hajishirzi.* \
 *Preprint* \
