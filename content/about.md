@@ -25,11 +25,11 @@ title: "About"
 
 ## Hello, I'm Junjie Oscar Yin
 
-My research is in natural language processing and machine learning. 
+My research is in NLP and ML. Specifically, I am interested in understanding the relation between training data and language model’s abilities beyond simple scaling, and, through that, do good science on AI systems.
 
-I am a first-year PhD student at UW NLP, advised by [Hannaneh Hajishirzi](https://hannaneh.ai/).
+I am a first-year PhD student at UW NLP, advised by [Hannaneh Hajishirzi](https://hannaneh.ai/). Previously, I was fortunate to be advised by [Sasha Rush](https://rush-nlp.com/) at Cornell.
 
-Previously, I was fortunate to collaborate with [Sasha Rush](https://rush-nlp.com/). 
+Recently, my friends and I started [WAI](https://wai-org.com/), where we work on open agentic research. 
 
 In my undergraduate years at Johns Hopkins, I was grateful to be advised by [Alan Yuille](https://www.cs.jhu.edu/~ayuille/) and supported by the [Westgate Scholarship](https://apply.jhu.edu/tuition-aid/types-of-financial-aid/need-based-scholarships/westgate-scholarship/). During my studies, I spent a year at the University of Oxford, where I had the privilege of being mentored by [Michael Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/). 
 
@@ -82,7 +82,9 @@ My list of publications is available here:
 
 ### Recent Updates
 
-Below you will find the most recent updates:
+Below you will find the most recent updates
+
+- 2025 Started my PhD<a href="https://nlp.washington.edu/">@ UW NLP</a>
 
 - 2024 Computing Research Association's (<a href="https://cra.org/">CRA</a>) Outstanding Undergraduate Researcher Award (<a href="https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/">URA</a>). *Dec 2023.*
 
