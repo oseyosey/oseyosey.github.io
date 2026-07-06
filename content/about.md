@@ -86,7 +86,7 @@ My list of publications is available here:
 
 Below you will find the most recent updates
 
-- 2025 Started my PhD<a href="https://nlp.washington.edu/">@ UW NLP</a>
+- 2025 Started my PhD <a href="https://nlp.washington.edu/">@UWNLP</a>
 
 - 2024 Computing Research Association's (<a href="https://cra.org/">CRA</a>) Outstanding Undergraduate Researcher Award (<a href="https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/">URA</a>). *Dec 2023.*
 
