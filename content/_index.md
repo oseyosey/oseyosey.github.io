@@ -1,5 +1,79 @@
 ---
 title: "Oscar Yinn"
-fullname: "Oscar Yin"
-# subheading: "Mostly intersted in Language and Vision."
+aliases:
+  - /about
 ---
+
+<head>
+    <style>
+        .container {
+            align: left; /* Aligns content of the container to the left */
+        }
+        .container img {
+            width: 30%; /* Adjust this percentage to control image size */
+            min-width: 250px; /* Prevents image from becoming too small on mobile */
+            max-width: 400px; /* Prevents image from becoming too large on wide screens */
+            margin-left: 0.1%; /* Adjust this percentage to move the image right */
+        }
+    </style>
+</head>
+
+<!-- <img src="assets/photo_id_website.png" alt="" /> -->
+
+<div class="container">
+    <img src="/photo_mugshot_2025.png" align="left">
+</div>
+
+## Hello, I'm Junjie Oscar Yin
+
+My research is in NLP and ML. Specifically, I am interested in understanding the relation between training data and language model’s abilities beyond simple scaling, and, through that, do good science on AI systems.
+
+Recently, my friends and I started [WAI](https://wai-org.com/), where we work on open agentic research. 
+
+### Bio
+
+I am a first-year PhD student at UW NLP, advised by [Hannaneh Hajishirzi](https://hannaneh.ai/). Previously, I was fortunate to be advised by [Sasha Rush](https://rush-nlp.com/) at Cornell.
+
+In my undergraduate years at Johns Hopkins, I was grateful to be advised by [Alan Yuille](https://www.cs.jhu.edu/~ayuille/) and supported by the [Westgate Scholarship](https://apply.jhu.edu/tuition-aid/types-of-financial-aid/need-based-scholarships/westgate-scholarship/). During my studies, I spent a year at the University of Oxford, where I had the privilege of being mentored by [Michael Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/). 
+
+### Publications
+
+My list of publications is available here:
+
+- TMax: A Simple Receipe for Terminal Agents\
+*Hamish Ivison\*, Junjie Oscar Yin\*, Rulin Shao, Teng Xiao, Nathan Lambert, Hannaneh Hajishirzi.[^cofirst]* \
+*Preprint* \
+<sup>[<a href="https://arxiv.org/abs/2606.23321">Paper</a>]</sup> <sup>[<a href="https://github.com/hamishivi/tmax">Codebase</a>]</sup>  <sup>[<a href="https://wai-org.com/blog/tmax/">Blog Post</a>]</sup> 
+
+[^cofirst]: \*Co-first authors.
+
+- Learning to Detect Language Model Training Data via Active Reconstruction.\
+*Junjie Oscar Yin, John X. Morris, Vitaly Shmatikov, Sewon Min, Hannaneh Hajishirzi.* \
+*Preprint* \
+<sup>[<a href="https://arxiv.org/pdf/2602.19020">Paper</a>]</sup> <sup>[<a href="https://github.com/oseyosey/MIA-RL">Codebase</a>]</sup> 
+
+- Approximating Language Model Training Data from Weights.\
+*John X. Morris, Junjie Oscar Yin, Woojeong Kim, Vitaly Shmatikov, Alexander M. Rush.* \
+*Conference on Language Modeling (COLM), 2025.* \
+<sup>[<a href="https://arxiv.org/abs/2506.15553">Paper</a>]</sup> <sup>[<a href="https://github.com/jxmorris12/reverse-training">Codebase</a>]</sup>
+
+- Compute-Constrained Data Selection.\
+*Junjie Oscar Yin, Alexander M. Rush.* \
+*International Conference on Learning Representations (ICLR), 2025.* \
+<sup>[<a href="https://arxiv.org/abs/2410.16208">Paper</a>]</sup> <sup>[<a href="https://github.com/oseyosey/CCDS">Codebase</a>]</sup> <sup>[<a href="https://www.youtube.com/watch?v=D5bHngvcQU4&t=787s">Talk</a>]</sup> 
+
+
+- ModuLoRA: Finetuning 2-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers.\
+*Junjie Oscar Yin, Jiahao Dong, Yingheng Wang, Christopher De Sa, Volodymyr Kuleshov.* \
+*Transactions on Machine Learning Research (TMLR), 2024. (Featured Paper ; Presented at ICLR 2024)* \
+ <sup>[<a href="https://openreview.net/forum?id=r9p9CV52MV">Paper</a>]</sup> <sup>[<a href="https://github.com/kuleshov-group/llmtools">Codebase</a>]</sup> <sup>[<a href="https://oseyincs.io/llmtools/">Blog Post</a>]</sup> 
+
+
+
+### Recent Updates
+
+Below you will find the most recent updates
+
+- 2025 Started my PhD <a href="https://nlp.washington.edu/">@UWNLP</a>
+
+- 2024 Computing Research Association's (<a href="https://cra.org/">CRA</a>) Outstanding Undergraduate Researcher Award (<a href="https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/">URA</a>). *Dec 2023.*

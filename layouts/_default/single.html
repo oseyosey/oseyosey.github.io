@@ -11,23 +11,6 @@
           <header class="post__header">
             <h1 id="post__title">{{.Title}}</h1>
             {{ if .Date }}<time datetime="{{ .Date }}" class="post__date">{{ .Date.Format $dateFormat }}</time> {{ end }}
-            <i>
-            {{ if .Params.Source }}
-              <p>
-                The source for this post can be found <a href="https://github.com/dfm-io/{{.Params.Source}}">here</a>.
-                Please open an issue or pull request on that repository if you have questions, comments, or suggestions. 
-              </p>
-              <p>
-                This post is implemented as a Jupyter notebook;
-                <a href="https://mybinder.org/v2/gh/dfm-io/{{.Params.Source}}/executed?labpath=post.ipynb">launch an executable version of this post on MyBinder.org</a>.
-              </p>
-            {{ else if ne .Title "About" }}
-              <p>
-                The source for this post can be found <a href="https://github.com/dfm-io/dfm.io/blob/main/content/posts/{{.Slug}}.md">here</a>.
-                Please open an issue or pull request on that repository if you have questions, comments, or suggestions.
-              </p>
-            {{ end }}
-            </i>
           </header>
           <article class="post__content">
               {{ partial "anchored-headings.html" .Content }}
