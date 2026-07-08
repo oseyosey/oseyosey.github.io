@@ -32,9 +32,9 @@ Recently, my friends and I started [WAI](https://wai-org.com/), where we work on
 
 ### Bio
 
-I am a first-year PhD student at UW NLP, advised by [Hannaneh Hajishirzi](https://hannaneh.ai/). Previously, I was fortunate to be advised by [Sasha Rush](https://rush-nlp.com/) at Cornell.
+I am a first-year PhD student at UW NLP, advised by [Hannaneh Hajishirzi](https://hannaneh.ai/). Previously, I was mentored by [Sasha Rush](https://rush-nlp.com/) at Cornell.
 
-In my undergraduate years at Johns Hopkins, I was grateful to be advised by [Alan Yuille](https://www.cs.jhu.edu/~ayuille/) and supported by the [Westgate Scholarship](https://apply.jhu.edu/tuition-aid/types-of-financial-aid/need-based-scholarships/westgate-scholarship/). During my studies, I spent a year at the University of Oxford, where I had the privilege of being mentored by [Michael Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/). 
+In my undergraduate years at Johns Hopkins, I read EE, CS, and Philosophy. I was grateful to do research under [Alan Yuille](https://www.cs.jhu.edu/~ayuille/) and with the support of the [Westgate Scholarship](https://apply.jhu.edu/tuition-aid/types-of-financial-aid/need-based-scholarships/westgate-scholarship/). I also spent a year at Oxford, where I studied under [Michael Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/).
 
 ### Publications
 
